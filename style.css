@@ -1,0 +1,79 @@
+body{
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+p {
+    margin-bottom: 12px;
+}
+h1, h2, h3 {
+    font-weight: 400;
+}
+h1 {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+h2 {
+    font-size: 32px;
+    border-bottom: 1px solid rgb(78, 78, 78);
+    margin-bottom: 8px;
+}
+.header-title {
+    font-size: 18px;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.link {
+    margin-top: 0px;
+}
+#header {
+    margin-bottom: 32px;
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.prof {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+#main h3 {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+#main h2 {
+    text-align: left;
+    margin-top: 15px;
+
+}
+#main p {
+    text-align: left;
+}
+#main {
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+ul {
+    text-align: left;
+    margin-top: 10px;
+}
+#footer {
+    margin-top: 64px;
+    text-align: center;
+}
+.author {
+    font-weight: bold;
+    text-align: center;
+}
+.adress {
+    margin-right: 15px;
+}
+.phone {
+    margin-right: 15px;
+}
